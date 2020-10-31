@@ -1,5 +1,3 @@
-# sqlalchemy-challenge
-HW#10
 # SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
